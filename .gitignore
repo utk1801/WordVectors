@@ -1,0 +1,5 @@
+models/*
+pretrained/*
+text8.zip
+checkpoints_nce/*
+checkpoints_cross_entropy/*
